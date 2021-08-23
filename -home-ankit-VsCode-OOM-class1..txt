@@ -1,1 +1,0 @@
-/home/ankit/VsCode/OOM/class1.cpp
